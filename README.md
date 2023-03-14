@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" width="auto" src ="https://user-images.githubusercontent.com/97565467/224864374-b693832d-28e4-4a27-ace6-af19a4d97013.png">
+  <img height="200" width="auto" src ="https://user-images.githubusercontent.com/97565467/224864374-b693832d-28e4-4a27-ace6-af19a4d97013.png">
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=LuizgustavoCoder&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   
