@@ -1,4 +1,4 @@
-![zyro-image-_4_](https://user-images.githubusercontent.com/97565467/224864023-8864c214-2fd1-4279-af3a-16d6fbf33e39.svg)
+![zyro-image (4)_cropped](https://user-images.githubusercontent.com/97565467/224864374-b693832d-28e4-4a27-ace6-af19a4d97013.png)
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=LuizgustavoCoder&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   
